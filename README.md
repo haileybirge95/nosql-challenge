@@ -1,1 +1,1 @@
-# nosql-challenge
+This project involves importing data collected by the UK Food Standards Agency. A database was created to evaluate various establishments across the United Kingdom based on their food hygiene rating. This analysis utilizes the ratings data in order to help journalists and food critics of the magazine "Eat Safe, Love" decide where to focus future articles.
